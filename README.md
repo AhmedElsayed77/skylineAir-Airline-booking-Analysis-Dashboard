@@ -71,8 +71,8 @@ The goal is to extract meaningful insights from booking data to support better b
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](./SkyLine Air Overview.png)
-![Dashboard](./SkyLine Air Dashboard Overview.png)
+![Dashboard](./SkyLine Air Overview)
+![Dashboard](./SkyLine Air Dashboard Overview)
 
 ---
 
