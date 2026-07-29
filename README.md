@@ -1,7 +1,7 @@
 # ✈️ Skyline Air Booking Analysis Dashboard
 
 ## 📌 Overview
-This project presents a comprehensive data analysis of airline booking behavior, developed in collaboration with Skyline Air.  
+This project presents a comprehensive data analysis of airline booking behavior,based on a simulated airline booking dataset (Skyline Air is a fictional case-study).  
 The goal is to extract meaningful insights from booking data to support better business decisions in the aviation industry.
 
 ---
